@@ -49,5 +49,5 @@ Express API on Render ──► MongoDB Atlas
 
 The source code is private. If you'd like to see it or talk about the project, get in touch:
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- Email: YOUR-EMAIL
+- GitHub:https://github.com/deekshitha0405
+- Email: deekshithapoojary04@gmail.com
